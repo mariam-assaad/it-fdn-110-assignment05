@@ -1,2 +1,3 @@
-# it-fdn-110-assignment05
-This repository is for Assignment05.
+# IntroToProg-Python-Mod05
+
+This repository will be used for reviewing homework files
